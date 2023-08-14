@@ -1,0 +1,204 @@
+1024
+Backpacking tent (2-person)
+30
+1025
+Camping Lantern inflatible
+40
+1026
+Sunscreen
+25
+1027
+Carabiners
+20
+1028
+Camping Coffee Maker D9000
+60
+1029
+Hacky sack
+80
+1030
+Ultralight Sleeping pad
+90
+1031
+Insect Repellent Spray
+150
+1032
+Camping Axe
+35
+1033
+Solar Camp Shower
+45
+1034
+Campsite Trash Bags
+200
+1035
+Portable Power Bank
+100
+1036
+Camping Cookware Set
+70
+1037
+Bear-Resistant Food Container
+110
+1038
+Hiking GPS Watch
+120
+1039
+Foldable Camp Wash Basin
+55
+1040
+Trekking Headlamp
+65
+1041
+Portable Camping Grill
+40
+1042
+Camping Hammock with Mosquito Net
+50
+1043
+Inflatable Camping Pillow
+90
+1044
+Camping Mess Kit
+75
+1045
+Collapsible Camp Chair
+100
+1046
+Portable Solar Charger
+30
+1047
+Camping Clothesline with Clips
+20
+1048
+Foldable Camp Shovel
+60
+1049
+Campfire Popcorn Popper
+45
+1050
+Camping Mirror
+25
+1051
+Camping Spice Kit
+35
+1052
+Emergency Whistle
+150
+1053
+Campsite Repair Tape
+55
+1054
+Camping Dishwashing Station
+70
+1055
+Sleeping Pad
+110
+1056
+Campsite Bluetooth Speaker
+80
+1057
+Camping Clothes Drying Rack
+120
+1058
+Collapsible Food Storage Containers
+100
+1059
+Portable Folding Saw
+65
+1060
+Camping chair, low
+40
+1061
+Hiking sandals
+30
+1062
+Campsite Playing Cards
+50
+1063
+Camping Hammock Straps
+90
+1064
+Fire Starter Kit
+75
+1065
+Bear Bell
+20
+1066
+Camping Tripod Grill
+60
+1067
+Camping Pillow Cover
+25
+1068
+Titanium spork
+498
+1001
+65qt Cooler
+50
+1002
+Camping Tent
+25
+1003
+Hiking Backpack
+100
+1004
+Portable Camp Stove
+75
+1005
+Sleeping Bag
+150
+1006
+Campfire Cooking Set
+40
+1007
+Inflatable Kayak
+30
+1008
+Solar-Powered Lantern
+60
+1009
+Outdoor First Aid Kit
+200
+1010
+Portable Water Filter
+90
+1011
+Camping Hammock
+70
+1012
+Trekking Poles
+110
+1013
+Campsite Folding Chairs
+120
+1014
+Waterproof Camping Tarp
+80
+1015
+Multi-Tool Kit
+180
+1016
+Insulated Water Bottle
+250
+1017
+Campsite Tableware Set
+140
+1018
+GPS Handheld Device
+20
+1019
+Mosquito Repellent Bracelet
+300
+1020
+Portable Shower System
+35
+1021
+Folding Camp Cot
+50
+1022
+Campsite Cooking Utensils
+75
+1023
+Collapsible Water Container
+100
